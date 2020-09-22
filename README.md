@@ -1,6 +1,7 @@
 # Netflix_Survey_Form
-Project aims to create survey form within html and css.
-001-survey-form (folder)
+https://abdullahclarusway.github.io/Netflix_Survey_Form/.
+# Project aims to create survey form within html and css.
+# Survey-form (folder)
 |
 |----readme.md                  
 |----solution
